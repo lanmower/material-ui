@@ -2,7 +2,6 @@
 # global .gitignore configuration file.
 # However, in order to prevent issues. We also ignore editors' files here.
 .idea
-.vscode
 
 *.log
 .DS_STORE
@@ -19,3 +18,4 @@
 build
 node_modules
 package-lock.json
+config.bat
